@@ -6,3 +6,9 @@ https://drive.google.com/drive/folders/1h5GqnDVlil7mygi7QJwRcXMdqXMcitmG?usp=sha
 
 Firebase:
 https://projectsignin-722a1.firebaseio.com
+
+Github:
+https://github.com/sowmyakeerthi/profile-app.git
+
+Thunkable: 
+https://x.thunkable.com/copy/036014e580f847417b26ef3e54aac1bc
